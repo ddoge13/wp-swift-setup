@@ -15,9 +15,10 @@ This is a bash script that automatically installs:
 The script installs wordpress on Nginx and creates the database using
 mariadb. This script also installs a **free ssl certificate** before the
 wordpress website is installed to ensure encrypted connections from the beginning.
-User input is required for some of the commands that autorun.
+User input is required for some of the commands.
 
 **THE FILES SHOULD NOT BE RENAMED OR MOVED OUTSIDE OF `bin/`**
+
 **DO NOT EDIT *ANY* FILES UNLESS YOU KNOW WHAT YOU ARE DOING**
 
 *If the program runs correctly, you should be able to access your wordpress website by
@@ -29,11 +30,15 @@ You can check your ssl security by entering your domain into [SSL Labs](https://
 into the [Preload List](https://hstspreload.org/) which is supported in many browsers
 see [here](https://caniuse.com/#feat=stricttransportsecurity).
 
-
 #Setup
 
 
+Tutorial on setting up the script.
+
+
+
 ##Prerequisites
+
 
 
 **HAVE A FULLY QUALIFIED DOMAIN**
