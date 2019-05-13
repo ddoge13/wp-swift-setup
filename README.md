@@ -30,15 +30,9 @@ You can check your ssl security by entering your domain into [SSL Labs](https://
 into the [Preload List](https://hstspreload.org/) which is supported in many browsers
 see [here](https://caniuse.com/#feat=stricttransportsecurity).
 
-#Setup
-
-
-Tutorial on setting up the script.
-
 
 
 ##Prerequisites
-
 
 
 **HAVE A FULLY QUALIFIED DOMAIN**
