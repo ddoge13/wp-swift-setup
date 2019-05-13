@@ -26,13 +26,16 @@ entering your domain name into the browser.*
 
 You can check your ssl security by entering your domain into [SSL Labs](https://www.ssllabs.com/ssltest/)
 
-**YOUR WEBSITE IS HSTS READY** You can preload your website by entering your domain
+**YOUR WEBSITE IS HSTS READY**
+You can preload your website by entering your domain
 into the [Preload List](https://hstspreload.org/) which is supported in many browsers
 see [here](https://caniuse.com/#feat=stricttransportsecurity).
 
 
+# Setup
 
-##Prerequisites
+
+## Prerequisites
 
 
 **HAVE A FULLY QUALIFIED DOMAIN**
